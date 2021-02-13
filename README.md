@@ -7,6 +7,6 @@ ktorý na maticovom displeji LED 8x8 externe pripojenom k FPGA na FITkite
 periodicky prepína zobrazenie iniciálu vášho mena a priezviska.
 Získaných 10/10b
 
-Projekt 2: brainfuck interpret na fitkit
+Projekt 2: brainfuck procesor na fitkit
 - Detaily zadania doplním neskôr.
 Získaných 23/23b
